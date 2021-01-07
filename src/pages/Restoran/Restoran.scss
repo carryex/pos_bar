@@ -1,0 +1,32 @@
+.restoran {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  .header {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #C4C4C4;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    justify-content: space-between;
+
+    .user-name {
+      padding: 10px;
+    }
+    .menu {
+      padding: 10px;
+    }
+  }
+  .container{
+    .buttons {
+      margin-top: 40px;
+      width: 380px;
+    }
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}

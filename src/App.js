@@ -3,6 +3,7 @@ import { Switch, Route, Redirect } from "react-router-dom";
 
 import SignIn from "./pages/SignIn/SignIn";
 import Login from "./pages/Login/Login";
+import Restoran from "./pages/Restoran/Restoran";
 
 import "./App.scss";
 const App = () => {
@@ -17,6 +18,7 @@ const App = () => {
           render={() => (currentUser ? <Redirect to="/login" /> : <SignIn />)}
         />
         <Route exact path="/login" component={Login} />
+        <Route exact path="/restoran" component={Restoran} />
       </Switch>
     </div>
   );
