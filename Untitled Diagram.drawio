@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T10:07:07.446Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="hG4mhw2xglrV6K28QY4K" version="14.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-07T10:59:42.684Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="6k9kfq3jl26vPmQD4dQ8" version="14.1.1" type="github" pages="2">
   <diagram id="w1IGCY3nbmWGk3qCiq3O" name="Scenarios">
-    <mxGraphModel dx="2503" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2922" dy="2544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,19 +28,11 @@
         <mxCell id="w2oGDDwC-yfaYsdd0_vw-8" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;Пользователь авторизован?&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="240" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w2oGDDwC-yfaYsdd0_vw-10" target="aNe1XFJ8YNY24CfK5yjk-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="w2oGDDwC-yfaYsdd0_vw-10" value="StuffLogin" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w2oGDDwC-yfaYsdd0_vw-13" value="да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="150" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="w2oGDDwC-yfaYsdd0_vw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w2oGDDwC-yfaYsdd0_vw-15" target="w2oGDDwC-yfaYsdd0_vw-24">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w2oGDDwC-yfaYsdd0_vw-15" value="Login" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
@@ -48,69 +40,40 @@
         <mxCell id="w2oGDDwC-yfaYsdd0_vw-17" value="нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="150" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="w2oGDDwC-yfaYsdd0_vw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w2oGDDwC-yfaYsdd0_vw-24" target="w2oGDDwC-yfaYsdd0_vw-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w2oGDDwC-yfaYsdd0_vw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w2oGDDwC-yfaYsdd0_vw-24" target="w2oGDDwC-yfaYsdd0_vw-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="635" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w2oGDDwC-yfaYsdd0_vw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w2oGDDwC-yfaYsdd0_vw-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="635.2857142857142" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w2oGDDwC-yfaYsdd0_vw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w2oGDDwC-yfaYsdd0_vw-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="635.1034482758621" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w2oGDDwC-yfaYsdd0_vw-24" value="У пользователя есть три сценария" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="245" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.491;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w2oGDDwC-yfaYsdd0_vw-30" target="aNe1XFJ8YNY24CfK5yjk-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="w2oGDDwC-yfaYsdd0_vw-30" value="Войти" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="575" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="w2oGDDwC-yfaYsdd0_vw-31" target="aNe1XFJ8YNY24CfK5yjk-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="w2oGDDwC-yfaYsdd0_vw-31" value="Восстановить пароль" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="575" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w2oGDDwC-yfaYsdd0_vw-33" value="Зарегистрироваться" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="740" y="240" width="160" height="60" as="geometry" />
+          <mxGeometry x="680" y="400" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w2oGDDwC-yfaYsdd0_vw-34" value="login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="220" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNe1XFJ8YNY24CfK5yjk-2" target="aNe1XFJ8YNY24CfK5yjk-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-2" value="Пользователь вводит pin сотрудника" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="340" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="aNe1XFJ8YNY24CfK5yjk-3" value="Restoran" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-7" value="login" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-7" value="login" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="414" y="330" width="95" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-8" value="password" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-8" value="password" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="414" y="360" width="95" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-11" value="signin" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="avErxySmuJCmImi-LPeo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNe1XFJ8YNY24CfK5yjk-11" target="aNe1XFJ8YNY24CfK5yjk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-11" value="signin" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="414" y="400" width="96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-12" value="registration" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="avErxySmuJCmImi-LPeo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNe1XFJ8YNY24CfK5yjk-12" target="w2oGDDwC-yfaYsdd0_vw-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-12" value="registration" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="413" y="430" width="96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-13" value="forgot password" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="avErxySmuJCmImi-LPeo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNe1XFJ8YNY24CfK5yjk-13" target="w2oGDDwC-yfaYsdd0_vw-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-13" value="forgot password" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="414" y="460" width="96" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aNe1XFJ8YNY24CfK5yjk-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.502;entryY=1.047;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aNe1XFJ8YNY24CfK5yjk-10" target="w2oGDDwC-yfaYsdd0_vw-15">
@@ -119,50 +82,23 @@
             <mxPoint x="457" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNe1XFJ8YNY24CfK5yjk-15" target="w2oGDDwC-yfaYsdd0_vw-10">
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aNe1XFJ8YNY24CfK5yjk-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="210" as="targetPoint" />
+            <mxPoint x="130" y="240" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="20" />
-              <mxPoint x="110" y="20" />
+              <mxPoint x="620" y="20" />
+              <mxPoint x="130" y="20" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aNe1XFJ8YNY24CfK5yjk-15" value="При успешном входе перенаправляем пользователя на странницу с pin кодом" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="585" y="50" width="110" height="90" as="geometry" />
+          <mxGeometry x="565" y="300" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-19" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="w2oGDDwC-yfaYsdd0_vw-33" target="aNe1XFJ8YNY24CfK5yjk-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="320" as="sourcePoint" />
-            <mxPoint x="940" y="282" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-20" value="Пока функция не работает" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="270" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-21" value="Пока функция не работает" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="330" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-24" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="240" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-25" value="pin" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="255" width="100" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-27" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="w2oGDDwC-yfaYsdd0_vw-10">
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-27" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aNe1XFJ8YNY24CfK5yjk-24" target="w2oGDDwC-yfaYsdd0_vw-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="61" y="270" as="sourcePoint" />
             <mxPoint x="110" y="280" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-28" value="button" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="295" width="100" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aNe1XFJ8YNY24CfK5yjk-24" target="aNe1XFJ8YNY24CfK5yjk-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-31" value="После успешно набраного пин кода пользователь попадает в рабочее окрежение" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="440" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aNe1XFJ8YNY24CfK5yjk-32" value="" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
           <mxGeometry x="80" y="520" width="120" height="130" as="geometry" />
@@ -173,21 +109,21 @@
             <mxPoint x="220" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-34" value="Здесь мы показываем имя сотрудника под которым работаем.&lt;br&gt;&lt;br&gt;Показываем кнопу menu с функциями(закрыть смену, история чеков).&lt;br&gt;&lt;br&gt;Кнопка для создания нового чека&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="535" width="140" height="125" as="geometry" />
-        </mxCell>
         <mxCell id="aNe1XFJ8YNY24CfK5yjk-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNe1XFJ8YNY24CfK5yjk-36" target="aNe1XFJ8YNY24CfK5yjk-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-180" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-36" value="stuffName" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-36" value="stuffName" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="90" y="530" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-38" value="menu" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-38" value="menu" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="90" y="570" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-39" value="newOrder" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="avErxySmuJCmImi-LPeo-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aNe1XFJ8YNY24CfK5yjk-39" target="avErxySmuJCmImi-LPeo-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-39" value="newOrder" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="90" y="610" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="aNe1XFJ8YNY24CfK5yjk-40" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="aNe1XFJ8YNY24CfK5yjk-38">
@@ -199,25 +135,180 @@
         <mxCell id="aNe1XFJ8YNY24CfK5yjk-42" value="" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
           <mxGeometry x="-90" y="555" width="120" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-44" value="closeDay" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="avErxySmuJCmImi-LPeo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNe1XFJ8YNY24CfK5yjk-44" target="avErxySmuJCmImi-LPeo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-44" value="closeDay" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-80" y="570" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-46" value="orderHistory" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="avErxySmuJCmImi-LPeo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNe1XFJ8YNY24CfK5yjk-46" target="avErxySmuJCmImi-LPeo-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-46" value="ordersHistory" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-80" y="610" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.086;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aNe1XFJ8YNY24CfK5yjk-51" target="w2oGDDwC-yfaYsdd0_vw-10">
+        <mxCell id="avErxySmuJCmImi-LPeo-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNe1XFJ8YNY24CfK5yjk-51" target="w2oGDDwC-yfaYsdd0_vw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-51" value="При клике на имя поьлзователя, пользователь возвращается к страннице StuffLogin и выходит из под пин" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="320" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-2" value="CloseDay" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="555" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-4" value="" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="635" width="120" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="avErxySmuJCmImi-LPeo-10" target="w2oGDDwC-yfaYsdd0_vw-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="170" as="targetPoint" />
+            <mxPoint x="110" y="170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-175" y="240" />
-              <mxPoint x="-170" y="240" />
-              <mxPoint x="-170" y="190" />
-              <mxPoint x="90" y="190" />
+              <mxPoint x="-280" y="743" />
+              <mxPoint x="-280" y="170" />
+              <mxPoint x="110" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aNe1XFJ8YNY24CfK5yjk-51" value="При клике на имя поьлзователя, пользователь возвращается к страннице StuffLogin и выходит из под пин" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="390" width="130" height="100" as="geometry" />
+        <mxCell id="avErxySmuJCmImi-LPeo-5" value="cash balance" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="655" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-6" value="Close day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="635" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-7" value="comment" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="690" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-10" value="button" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="730" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-11" value="На страннице закрытия кассового дня пользователь должен обязательно ввести остаток в кассе, при необходимости ввести комментарий и нажать на кнопку &quot;закрыть день&quot;.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="670" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-13" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="avErxySmuJCmImi-LPeo-6" target="avErxySmuJCmImi-LPeo-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-210" y="650" as="sourcePoint" />
+            <mxPoint x="-160" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-20" value="OrdersHistrory" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="avErxySmuJCmImi-LPeo-21" target="avErxySmuJCmImi-LPeo-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-21" value="При клике на истории заказов мы поподаем на историю заказов сегоднешнего дня" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-24" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="840" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-25" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="avErxySmuJCmImi-LPeo-24" target="avErxySmuJCmImi-LPeo-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="860" as="sourcePoint" />
+            <mxPoint x="160" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-26" value="Здесь показываем все заказы за текущую смену" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-27" value="OrderItem" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="855" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-29" value="OrderItem" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="890" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-30" value="OrderItem" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="930" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-32" value="login" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="-40" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-33" value="Обозначения" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="-70" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-34" value="forminput" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-42.5" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-35" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="avErxySmuJCmImi-LPeo-32" target="avErxySmuJCmImi-LPeo-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180" y="80" as="sourcePoint" />
+            <mxPoint x="-130" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-36" value="button" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-280" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-37" value="component with action" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-10" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-38" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="avErxySmuJCmImi-LPeo-36" target="avErxySmuJCmImi-LPeo-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200" y="40" as="sourcePoint" />
+            <mxPoint x="-150" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-41" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="320" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-24" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="avErxySmuJCmImi-LPeo-41">
+          <mxGeometry width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-25" value="pin" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="avErxySmuJCmImi-LPeo-41">
+          <mxGeometry x="10" y="15" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-28" value="button" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="avErxySmuJCmImi-LPeo-41">
+          <mxGeometry x="10" y="55" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="avErxySmuJCmImi-LPeo-41" source="aNe1XFJ8YNY24CfK5yjk-24" target="aNe1XFJ8YNY24CfK5yjk-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNe1XFJ8YNY24CfK5yjk-28" target="aNe1XFJ8YNY24CfK5yjk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-47" value="NewOrder" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-48" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="720" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-49" value="На страннице с новым заказом пользователю отображается кнопка назад, номер чека, фильтр по категориям, список товаров, и кнопка перейти к оплате" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="720" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-51" value="CategoryesFilter" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="453" y="730" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="avErxySmuJCmImi-LPeo-52" target="aNe1XFJ8YNY24CfK5yjk-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="785" />
+              <mxPoint x="370" y="455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-52" value="back" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="451.5" y="770" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-53" value="orderId" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="451.5" y="810" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-54" value="productList" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="451.5" y="850" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-55" value="button" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="451.5" y="890" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avErxySmuJCmImi-LPeo-56" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="avErxySmuJCmImi-LPeo-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="720" as="sourcePoint" />
+            <mxPoint x="560" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-31" value="После успешно набраного пин кода пользователь попадает в рабочее окрежение" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aNe1XFJ8YNY24CfK5yjk-34" value="Здесь мы показываем имя сотрудника под которым работаем.&lt;br&gt;&lt;br&gt;Показываем кнопу menu с функциями(закрыть смену, история чеков).&lt;br&gt;&lt;br&gt;Кнопка для создания нового чека&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="482.5" width="140" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
