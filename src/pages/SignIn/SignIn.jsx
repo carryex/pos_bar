@@ -36,7 +36,7 @@ const SignIn = () => {
     <div className="sign-in">
       <div className="container">
         <div className="logo-container">
-          <Logo />
+          <Logo className="logo"/>
         </div>
         <form onSubmit={handleSubmit}>
           {/* here goas FormInput and buttons*/}
@@ -62,6 +62,7 @@ const SignIn = () => {
           <div className="button">
             <CustomButton type="submit">Registration</CustomButton>
           </div>
+          <a className="forgot_password" href="/">Forgot password?</a>
         </form>
       </div>
     </div>
